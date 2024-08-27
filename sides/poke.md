@@ -12,6 +12,8 @@
 - green onion
 - grated ginger
 - lime
+- base: rice, salad, or rice noodle
+- any other ingredient or sauce as you prefer
 
 ## Instructions
 
