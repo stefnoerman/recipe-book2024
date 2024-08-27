@@ -14,13 +14,13 @@
 - Pie shell
 - Nutmeg
 - Can of evaporated milk
-- 0.4 cup sugar
+- 0.4 cup sugar (or start with 4 tbsp, if you don't want it to be too sweet)
 - 0.5 tsp salt
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
 - 2 eggs
-
+- almond or cashews for toppings, if you like
 
 ## Instructions
 
@@ -29,6 +29,7 @@
 - Mix until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
+- add your favorite toppings
 
 
 ## Baking
