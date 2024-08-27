@@ -15,3 +15,4 @@
 - boil the rigatoni in the boiling water for 8-10 mins to achieve the right texture
 - meanwhile, stir fry onions and mushrooms with olive oil
 - add peas to the stir fried onions and mushrooms
+- mix them
