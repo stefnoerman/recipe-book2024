@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- **1 lb** (450g) mixed mushrooms (e.g., button, cremini, shiitake), cleaned and sliced
+- **1 lb** (450g) mixed mushrooms (e.g., button, cremini, (autumn), oyster, chanterelle, champignon, shiitake), cleaned and sliced
 - **2 tablespoons** olive oil or unsalted butter
 - **1** medium onion, diced
 - **2** garlic cloves, minced
@@ -49,5 +49,5 @@
      adding the cream.
 
 7. **Serve:**
-   - Ladle the soup into bowls and garnish with fresh parsley. Serve with
+   - Ladle the soup into bowls and garnish with fresh parsley and a small amount of olive oil. Serve with
      crusty bread on the side for dipping.
